@@ -34,7 +34,7 @@ function App() {
       {/* <BTChonXe ></BTChonXe> */}
       {/* <StyleDemo></StyleDemo> */}
         {/* <RenderWithMap></RenderWithMap> */}
-      {/* <BTThucHanhLayout></BTThucHanhLayout> */}
+      <BTThucHanhLayout></BTThucHanhLayout>
       {/* <BTQuanLyPhim></BTQuanLyPhim> */}
       {/* <DemoProps></DemoProps> */}
       {/* <BTDanhSachSanPham></BTDanhSachSanPham> */}
@@ -43,7 +43,7 @@ function App() {
       {/* <FormQuanLySinhVIen></FormQuanLySinhVIen> */}
       {/* <LifeCycleReact/> */}
       {/* <Api></Api> */}
-      <BaiTaPOanXuXi></BaiTaPOanXuXi>
+      {/* <BaiTaPOanXuXi></BaiTaPOanXuXi> */}
       
     </div>
   );
