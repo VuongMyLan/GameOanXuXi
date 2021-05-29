@@ -21,6 +21,7 @@ export default class RenderWithMap extends Component {
         //                 <h4 className="card-title">{product.name}</h4>
         //                 <p className="card-text">{product.price}</p>
         //               </div>
+
         //             </div>
         // ;           
         //         // Dua tagjsx vao mang

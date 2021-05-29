@@ -1,0 +1,11 @@
+/* Neu css lien ket den resource (file) ben ngoai thi resoure phai nam trong thu muc src */
+@font-face {
+    font-family: fontGame;
+    src: url('../../img/imgGame/Pony.ttf');
+}
+.bgGame {
+    background: url('../../img/imgGame/bgGame.png');
+    font-family: fontGame;
+    height: 100vh;
+    width: 100vw
+}

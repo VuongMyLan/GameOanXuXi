@@ -10,6 +10,17 @@ import BTChonXe from './StateDemo/BTChonXe';
 import StyleDemo from './StyleDemo/StyleDemo';
 import RenderWithMap from './RenderWithMap/RenderWithMap';
 import BTThucHanhLayout from './Components/BaiTapThucHanhLayout/BTThucHanhLayout';
+import BTQuanLyPhim from './RenderWithMap/BTQuanLyPhim';
+import DemoProps from './Components/PropsDemo/DemoProps';
+import BTDanhSachSanPham from './Components/PropsDemo/BTDanhSachSanPham/BTDanhSachSanPham';
+import DanhSachSanPhamRedux from './redux/ReduxDemo/BTGioHangRedux/DanhSachSanPhamRedux';
+import BTGameXucXac from './redux/ReduxDemo/BTGameXucXac/BTGameXucXac';
+import FormQuanLySinhVIen from './FormQuanLySinhVien/FormQuanLySinhVIen';
+import LifeCycleReact from './LifeCycleReact.js/LifeCycleReact';
+import Api from './api/Api';
+import BaiTaPOanXuXi from './redux/ReduxDemo/BaiTapOanXuXi/BaiTaPOanXuXi';
+
+
 
 
 
@@ -23,7 +34,16 @@ function App() {
       {/* <BTChonXe ></BTChonXe> */}
       {/* <StyleDemo></StyleDemo> */}
         {/* <RenderWithMap></RenderWithMap> */}
-      <BTThucHanhLayout></BTThucHanhLayout>
+      {/* <BTThucHanhLayout></BTThucHanhLayout> */}
+      {/* <BTQuanLyPhim></BTQuanLyPhim> */}
+      {/* <DemoProps></DemoProps> */}
+      {/* <BTDanhSachSanPham></BTDanhSachSanPham> */}
+      {/* <DanhSachSanPhamRedux></DanhSachSanPhamRedux> */}
+      {/* <BTGameXucXac></BTGameXucXac> */}
+      {/* <FormQuanLySinhVIen></FormQuanLySinhVIen> */}
+      {/* <LifeCycleReact/> */}
+      {/* <Api></Api> */}
+      <BaiTaPOanXuXi></BaiTaPOanXuXi>
       
     </div>
   );
